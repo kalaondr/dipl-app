@@ -19,7 +19,7 @@ gem 'therubyracer',  platforms: :ruby
 
 # Scaffold for haml
 gem 'haml-rails'
-
+gem 'devise'
 gem 'bootstrap-sass'
 
 # Use jquery as the JavaScript library
